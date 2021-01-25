@@ -1,3 +1,4 @@
+<header>
 <div class="row no-gutters">
     <div class="col-md-12">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -27,3 +28,4 @@
         </nav>
     </div>
 </div>
+</header>
